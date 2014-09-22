@@ -6,6 +6,6 @@ Use:
 	
 	var epigramOfTheDay = epigrams[Math.floor(Math.random()*epigrams.length)];
 	
-	console.log(epigramsOfTheDay);
+	console.log(epigramOfTheDay);
 
 Epigrams taken from [http://pu.inf.uni-tuebingen.de/users/klaeren/epigrams.html](http://pu.inf.uni-tuebingen.de/users/klaeren/epigrams.html).
