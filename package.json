@@ -2,10 +2,23 @@
 	"name": "epigrams-on-programming",
 	"description": "Node.js module that gives you a list of epigrams on programming from Alan J. Perlis.",
 	"author": "Tomas Kafka <tk@tomaskafka.com>",
-	"version": "0.0.1",
-	"dependencies": {
+	"keywords": [
+		"wisdom",
+		"epigrams",
+		"perlis",
+		"motd"
+	],
+	"homepage": "https://github.com/tkafka/epigrams-on-programming",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/tkafka/epigrams-on-programming.git"
 	},
-	"devDependencies": {
+	"bugs": {
+		"url": "https://github.com/tkafka/epigrams-on-programming/issues"
 	},
+	"version": "0.0.2",
+	"main": "epigrams.js",
+	"dependencies": {},
+	"devDependencies": {},
 	"engine": "node >= 0.6.6"
 }
