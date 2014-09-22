@@ -1,0 +1,11 @@
+{
+	"name": "epigrams-on-programming",
+	"description": "Node.js module that gives you a list of epigrams on programming from Alan J. Perlis.",
+	"author": "Tomas Kafka <tk@tomaskafka.com>",
+	"version": "0.0.1",
+	"dependencies": {
+	},
+	"devDependencies": {
+	},
+	"engine": "node >= 0.6.6"
+}
